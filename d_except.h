@@ -1,3 +1,7 @@
+/*
+Exception handling header file. Provided by the Salisbury University Computer Science Department.
+*/
+
 #ifndef EXCEPTION_CLASSES
 #define EXCEPTION_CLASSES
 
